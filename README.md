@@ -1,1 +1,1 @@
-# Liar-s-Dice
+# Liar's Dice
