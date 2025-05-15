@@ -25,5 +25,24 @@ Liar's Dice is a multiplayer dice game where players take turns making bids on t
 ---
 
 
-### **How to run:**
-Clone the repository, install the dependencies from 'requirements.txt' and run 'python main.py' in the terminal.
+### **Installation:**
+**Clone the repository:**
+
+```bash
+git clone https://github.com/bobi759/liars-dice.git
+cd liars-dice
+```
+**Create virtual environment**
+```bash
+python -m venv venv
+```
+
+**Activate the virtual environment**
+```bash
+venv\Scripts\activate
+```
+
+**Install requirements**
+```bash
+pip install -r requirements.txt
+```
